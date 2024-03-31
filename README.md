@@ -1,1 +1,1 @@
-Random Quote Bot for Discord
+# Random Quote Bot for Discord
