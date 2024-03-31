@@ -13,5 +13,6 @@ This Discord bot retrieves random quotes along with their cover images from a pr
    
    ```bash
    pip install discord.py
-```bash
+   
+   ```bash
    pip install -U discord.py[voice]
