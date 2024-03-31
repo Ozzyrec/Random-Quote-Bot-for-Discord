@@ -9,7 +9,8 @@ This Discord bot retrieves random quotes along with their cover images from a pr
 
 ## Installation
 
-1. Clone this repository:
+1. Install the required dependencies:
    
    ```bash
-   git clone https://github.com/your-username/random-quote-bot.git
+   pip install discord.py
+   pip install -U discord.py[voice]
