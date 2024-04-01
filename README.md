@@ -16,5 +16,11 @@ This Discord bot retrieves random quotes along with their cover images from a pr
 
 This will install the Discord.py library.
 
-
 2. Install Additional Dependencies: Since we want to handle voice as well, let's make sure we have all the voice-related dependencies:
+
+   ```bash
+   pip install -U discord.py[voice]
+
+This ensures you have all the required components to handle voice functionalities.
+
+And that's it for installation! Now you're ready to start setting up the bot and making your Discord server a bit more lively. If you run into any issues along the way, feel free to reach out for assistance. Happy coding!
