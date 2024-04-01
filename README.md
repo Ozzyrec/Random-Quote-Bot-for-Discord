@@ -30,3 +30,9 @@ And that's it for installation! Now you're ready to start setting up the bot and
 1. Invite the bot to your Discord server.
 2. Use the '!quote' command to get a random quote with its cover image.
 3. Use the '!ping' command to check if the bot is responsive.
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
+
+## Credits
+- Quotes sourced from HubSpot's Famous Quotes.
