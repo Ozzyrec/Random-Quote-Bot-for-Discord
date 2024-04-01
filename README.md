@@ -35,4 +35,4 @@ And that's it for installation! Now you're ready to start setting up the bot and
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
 
 ## Credits
-- Quotes sourced from HubSpot's Famous Quotes.
+- Quotes sourced from https://blog.hubspot.com/sales/famous-quotes.
