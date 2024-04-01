@@ -15,3 +15,5 @@ This Discord bot retrieves random quotes along with their cover images from a pr
    pip install discord.py
 
 This will install the Discord.py library.
+
+2. Install Additional Dependencies: Since we want to handle voice as well, let's make sure we have all the voice-related dependencies:
