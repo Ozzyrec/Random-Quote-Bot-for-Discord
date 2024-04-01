@@ -24,3 +24,9 @@ This will install the Discord.py library.
 This ensures you have all the required components to handle voice functionalities.
 
 And that's it for installation! Now you're ready to start setting up the bot and making your Discord server a bit more lively. If you run into any issues along the way, feel free to reach out for assistance. Happy coding!
+
+## Usage
+
+1. Invite the bot to your Discord server.
+2. Use the '!quote' command to get a random quote with its cover image.
+3. Use the '!ping' command to check if the bot is responsive.
