@@ -35,4 +35,7 @@ And that's it for installation! Now you're ready to start setting up the bot and
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
 
 ## Credits
-- Quotes sourced from https://blog.hubspot.com/sales/famous-quotes.
+- Example quotes sourced from https://blog.hubspot.com/sales/famous-quotes.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
